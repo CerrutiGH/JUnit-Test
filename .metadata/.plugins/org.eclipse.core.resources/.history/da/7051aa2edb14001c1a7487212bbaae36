@@ -1,0 +1,16 @@
+package qts.locadora.service;
+
+import java.io.FileInputStream;
+import java.io.InputStream;
+import java.io.FileNotFoundException;
+
+
+public class LancandoExcecoes {
+
+	public static void main(String[] args) throw FileNotFoundException {
+		
+	}
+	
+	
+	
+}
